@@ -1,0 +1,1 @@
+hold BOOT button while powering the board -> it will be started in boot mode
