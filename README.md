@@ -29,6 +29,11 @@ Hardware Scheme and firmware for MCU based BPM (beats per minute) calculator.
 ![](/images/schematics.jpg)
 
 
+## PCB Layout
+
+![](/images/pcb_layout.jpg)
+
+
 ## Single Detected Heartbeat
 
 ![](/images/beat.jpg)
